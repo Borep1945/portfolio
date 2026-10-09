@@ -1,6 +1,6 @@
 # Engineering portfolio
 
-Original responsive static portfolio for Borep1945, with six engineering project cards, category filters, keyboard access, dark/light preference, reduced-motion support, local graphics and public GitHub contact links.
+Original responsive static portfolio for CoreVail, with six engineering project cards, category filters, keyboard access, dark/light preference, reduced-motion support, local graphics and public GitHub contact links.
 
 ## Run
 
